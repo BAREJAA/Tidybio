@@ -1,0 +1,15 @@
+---
+title: My first blogpost
+author: Akshay
+date: '2020-06-10'
+slug: my-first-blogpost
+categories: []
+tags: []
+---
+
+Hello world
+
+```{r hello}
+print("hello world")
+```
+
